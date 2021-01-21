@@ -1,0 +1,8 @@
+tuple1=(1,2,3,4,5)
+print (tuple1)
+list1=list(tuple1)
+print (list1)
+list1.remove(3)
+print (list1)
+tuple2=tuple(list1)
+print (tuple2)
